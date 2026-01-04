@@ -83,6 +83,9 @@
 ||stripchat.com
 ||landing.iknowthatgirl.com
 ||landing.candynetwork.ai
+||m.seekherat.de
+||landing.*^
+
 
 
 
