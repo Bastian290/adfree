@@ -4,6 +4,30 @@
 ||trafficjunky.com^
 ||tjcdn.com^
 
+! --- Aggressive Werbenetzwerke & Popup-Schleudern ---
+||exoclick.com^
+||juicyads.com^
+||trafficjunky.net^
+||trafficjunky.com^
+||popads.net^
+||propellerads.com^
+||adsterra.com^
+||admaven.com^
+||hilltopads.com^
+||bidgear.com^
+||clickadu.com^
+||ero-advertising.com^
+||tsyndicate.com^
+||realsrv.com^
+||magsrv.com^
+||a.orbsrv.com^
+||shorte.st^
+||adf.ly^
+||onclickads.net^
+||adskeeper.co.uk^
+||mgid.com^
+
+
 
 ! ExoClick (Nutzen fast alle anderen Streaming-Seiten)
 ||exoclick.com^
@@ -54,3 +78,4 @@
 ||cdn13.com^
 ||creative.live.juicyads.com^
 ||go.xtb.com^
+
