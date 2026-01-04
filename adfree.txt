@@ -85,6 +85,7 @@
 ||landing.candynetwork.ai
 ||m.seekherat.de
 ||landing.*^
+||landing1.*^
 
 
 
