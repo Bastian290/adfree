@@ -1,0 +1,56 @@
+! --- GRUPPE 1: Die großen Netzwerke (Pornhub, Brazzers, etc.) ---
+! TrafficJunky (Das Haupt-Netzwerk von MindGeek/Pornhub)
+||trafficjunky.net^
+||trafficjunky.com^
+||tjcdn.com^
+
+
+! ExoClick (Nutzen fast alle anderen Streaming-Seiten)
+||exoclick.com^
+||syndication.exoclick.com^
+||main.exoclick.com^
+||exosrv.com^
+||exodyn.com^
+||exo-click.com^
+
+! JuicyAds (Oft diese kleinen blinkenden Banner)
+||juicyads.com^
+||jads.co^
+||juicyads-adserver.com^
+
+! --- GRUPPE 2: Popups & Nervige "Hintergrund-Fenster" ---
+! Die Klassiker für "Fenster geht im Hintergrund auf"
+||popads.net^
+||popcash.net^
+||popcash.com^
+||propellerads.com^
+||monetag.com^
+||adcash.com^
+||onclickads.net^
+
+! --- GRUPPE 3: Cam-Werbung & Live-Chat Popups ---
+! Blockiert die Werbung für Cams, die sich oft drüber legt
+||livejasmin.com^
+||bongacams.com^
+||imlive.com^
+||stripchat.com^
+||awempire.com^
+||jasmin.com^
+! (Nur hinzufügen, wenn du diese Seiten NICHT selbst nutzen willst!)
+
+! --- GRUPPE 4: Fake-Dating & "Fick mich jetzt" Buttons ---
+||adultfriendfinder.com^
+||crakrevenue.com^
+||ero-advertising.com^
+||adxpansion.com^
+||adx.adxpansion.com^
+||doublepimp.com^
+||realsrv.com^
+||a.realsrv.com^
+||mure-a.com^
+
+! --- GRUPPE 5: Mobile Weiterleitungen (Vibrationen am Handy) ---
+||mob1.contentabc.com^
+||cdn13.com^
+||creative.live.juicyads.com^
+||go.xtb.com^
